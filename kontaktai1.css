@@ -15,7 +15,7 @@ body {
 
 .container {
     width: 100%;
-    margin:0 auto;
+    margin:100px auto;
 }
 .subtitle {
     margin-bottom: 50px;
@@ -48,7 +48,7 @@ button {
     margin: 0 auto;
 }
 .button-img {
-    width: 400px;
+    width: 500px;
     align-items: center;
     display: flex;
 }
